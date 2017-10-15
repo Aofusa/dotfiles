@@ -1,0 +1,13 @@
+# Ignore all files
+/*
+
+# Ignore all dot-files
+# /.*
+
+##### Git manage list #####
+!/.gitignore
+!/LICENSE
+!/README.md
+!/.profile.ps1
+!/.emacs.d
+
